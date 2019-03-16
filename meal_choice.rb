@@ -1,3 +1,3 @@
 def meal_choice(name = "meat")
- #{name}"
+"#{name}"
 end
