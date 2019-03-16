@@ -1,4 +1,4 @@
 def meal_choice(name = "meat")
-  puts "vegan #{name}"
-  "meat"
+  puts " #{name}"
+  "vegan"
 end
